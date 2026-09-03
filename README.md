@@ -7,6 +7,16 @@
 
 > 🎯 **Disponible para nuevas oportunidades** — Product & UX/UI Designer · Málaga / remoto
 
+## 🎨 Proyectos destacados
+
+| | |
+|---|---|
+| **[Tito David](https://oddxandre.es/project-tito-david.html)** — Branding & Packaging · 2026 | **[Inboxe Fitboxing](https://oddxandre.es/project-inboxe.html)** — UX/UI & Product Design · BeByte · 2026 |
+| **[Cerveza Paleña](https://oddxandre.es/project-palena.html)** — Identidad Visual · 2025 | **[Beyond Frames](https://oddxandre.es/project-beyond-frames.html)** — Apple Vision Pro Concept · 2024 |
+| **[Copao](https://oddxandre.es/project-copao.html)** — Campaña Salud Mental · Credo · 2024 | **[Aguas de Benahavís](https://oddxandre.es/project-benahavis.html)** — Campaña Branding · Credo · 2024 |
+
+**[→ Ver todos los proyectos](https://oddxandre.es/work.html)** · **[📄 Descargar CV](https://oddxandre.es/media/PedroCarreras_UXUI_VisualDesigner.pdf)**
+
 ## Experiencia
 
 **Product & UX/UI Designer** — BeByte Tecnología (04/2025 – 09/2025)
