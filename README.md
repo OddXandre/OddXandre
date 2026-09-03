@@ -1,62 +1,51 @@
-# Hola, soy Xandre 👋
+# Xandre Carreras — Product & UX/UI Designer
 
-**Product & UX/UI Designer** en Málaga, España. Más de 3 años diseñando productos digitales, interfaces web y experiencias visuales: de la investigación y la arquitectura de información al prototipado y los sistemas de diseño, trabajando junto a producto y desarrollo hasta la entrega final.
+Málaga, España · remoto
 
-- 🔗 Portfolio: **[Ver portfolio en línea](https://oddxandre.github.io/Portfolio_OddXandre)**
-- ✉️ oddxandre@gmail.com
+Convierto problemas complejos en productos claros: investigación, interfaces y sistemas de diseño que escalan.
 
-> 🎯 **Disponible para nuevas oportunidades** — Product & UX/UI Designer · Málaga / remoto
+> 🎯 **Disponible para nuevas oportunidades** · [CV en PDF](https://oddxandre.github.io/Portfolio_OddXandre/media/PedroCarreras_UXUI_VisualDesigner.pdf) · [oddxandre@gmail.com](mailto:oddxandre@gmail.com)
 
-## 🎨 Proyectos destacados
+**[→ Ver portfolio](https://oddxandre.github.io/Portfolio_OddXandre)**
 
-| | |
-|---|---|
-| **[Tito David](https://oddxandre.github.io/Portfolio_OddXandre/project-tito-david.html)** — Branding & Packaging · 2026 | **[Inboxe Fitboxing](https://oddxandre.github.io/Portfolio_OddXandre/project-inboxe.html)** — UX/UI & Product Design · BeByte · 2026 |
-| **[Cerveza Paleña](https://oddxandre.github.io/Portfolio_OddXandre/project-palena.html)** — Identidad Visual · 2025 | **[Beyond Frames](https://oddxandre.github.io/Portfolio_OddXandre/project-beyond-frames.html)** — Apple Vision Pro Concept · 2024 |
-| **[Copao](https://oddxandre.github.io/Portfolio_OddXandre/project-copao.html)** — Campaña Salud Mental · Credo · 2024 | **[Aguas de Benahavís](https://oddxandre.github.io/Portfolio_OddXandre/project-benahavis.html)** — Campaña Branding · Credo · 2024 |
+## Trabajo seleccionado
 
-**[→ Ver todos los proyectos](https://oddxandre.github.io/Portfolio_OddXandre/work.html)** · **[📄 Descargar CV](https://oddxandre.github.io/Portfolio_OddXandre/media/PedroCarreras_UXUI_VisualDesigner.pdf)**
+| Proyecto | Tipo | Cliente | Año |
+|---|---|---|---|
+| [Inboxe Fitboxing](https://oddxandre.github.io/Portfolio_OddXandre/project-inboxe.html) | Producto digital | BeByte | 2026 |
+| [Tito David](https://oddxandre.github.io/Portfolio_OddXandre/project-tito-david.html) | Branding & packaging | — | 2026 |
+| [Cerveza Paleña](https://oddxandre.github.io/Portfolio_OddXandre/project-palena.html) | Identidad visual | — | 2025 |
+| [Beyond Frames](https://oddxandre.github.io/Portfolio_OddXandre/project-beyond-frames.html) | Apple Vision Pro | EASD San Telmo | 2024 |
 
-## Experiencia
+[Ver los 8 proyectos →](https://oddxandre.github.io/Portfolio_OddXandre/work.html)
 
-**Product & UX/UI Designer** — BeByte Tecnología (04/2025 – 09/2025)
-UX/UI en proyectos internacionales: usabilidad, consistencia visual en interfaces escalables e integración de IA generativa y sistemas de diseño en equipos globales.
+## Trayectoria
 
-**UX/UI, Visual & Multimedia Designer** — Credo.si (01/2024 – 12/2024)
-Interfaces web y móviles centradas en el usuario; investigación y testing; branding, comunicación visual y motion graphics.
-
-**UX/UI & Visual Designer** — Impar.ux (06/2022 – 09/2024)
-Proyectos de UX/UI, branding y diseño visual; IA y metodologías ágiles para coordinar equipos y mejorar la eficiencia.
-
-## Qué hago
-
-- **Producto & UX/UI:** Figma, Adobe XD, Sketch · investigación de usuarios, testing, arquitectura de información, wireframing, prototipado, design systems
-- **Visual & motion:** Photoshop, Illustrator, InDesign, After Effects, Premiere Pro
-- **Web:** HTML, CSS, JavaScript, WordPress
-- **Colaboración:** Miro, Balsamiq, Jira, Notion · IA aplicada al diseño
-- **Metodologías:** Design Thinking, Lean UX, Agile, Scrum, Design Sprint
-
-## Formación
-
-- Grado Superior en Gráfica Interactiva y UX/UI — EASD San Telmo
-- Enterprise Design Thinking Practitioner · AI Fluency Pathway · Software Engineering for Web Developers — IBM SkillsBuild
-- Google Analytics Certification — Google
+**BeByte** (2025) · **Credo.si** (2024) · **Impar.ux** (2022–2024)
+UX/UI, branding y motion en proyectos internacionales.
 
 <details>
-<summary>Más certificaciones</summary>
+<summary><strong>Skills & herramientas</strong></summary>
 
-- Diseño de Experiencia de Usuario — IBM SkillsBuild
-- Team Essentials for Designing AI Solutions — IBM SkillsBuild
-- Generative AI Content Creation — IBM SkillsBuild
-- Inteligencia Artificial y Productividad — Santander Open Academy / Google
-- Web Design Certification — Duda
-- Figma for UI/UX Design — Great Learning
-- Design Thinking — The Open University / OpenLearn
+Figma · Adobe XD · Sketch · Photoshop · Illustrator · After Effects · Premiere
+HTML · CSS · JavaScript · WordPress
+Miro · Balsamiq · Jira · Notion · IA aplicada al diseño
+Design Thinking · Lean UX · Agile · Scrum · Design Sprint
 
 </details>
 
----
+<details>
+<summary><strong>Formación & certificaciones</strong></summary>
 
-🌐 Español (nativo) · 🇬🇧 Inglés (B2)
+EASD San Telmo — Grado Superior en Gráfica Interactiva y UX/UI
+IBM SkillsBuild — Enterprise Design Thinking · AI Fluency · Software Engineering for Web Developers · UX
+Google Analytics Certification · Web Design (Duda) · Figma UI/UX (Great Learning) · Design Thinking (Open University)
 
-📬 Contacto: **[oddxandre@gmail.com](mailto:oddxandre@gmail.com)**
+</details>
+
+<details>
+<summary><strong>Idiomas</strong></summary>
+
+Español (nativo) · Inglés (B2)
+
+</details>
