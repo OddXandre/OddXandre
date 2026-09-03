@@ -11,7 +11,9 @@
   🎯 <strong>Disponible para nuevas oportunidades</strong><br>
   <a href="https://oddxandre.github.io/Portfolio_OddXandre/media/PedroCarreras_UXUI_VisualDesigner.pdf"><strong>CV en PDF</strong></a> ·
   <a href="mailto:oddxandre@gmail.com">oddxandre@gmail.com</a> ·
-  <a href="https://oddxandre.github.io/Portfolio_OddXandre"><strong>Ver portfolio →</strong></a>
+  <a href="https://oddxandre.github.io/Portfolio_OddXandre"><strong>Ver portfolio →</strong></a> ·
+  <a href="https://github.com/OddXandre/Portfolio_OddXandre/releases/tag/v1.0.0">v1.0.0</a> ·
+  <a href="https://oddxandre.github.io/Portfolio_OddXandre/work.html">galería</a>
 </p>
 
 ## Trabajo seleccionado
