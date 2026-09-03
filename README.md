@@ -2,7 +2,7 @@
 
 **Product & UX/UI Designer** en Málaga, España. Más de 3 años diseñando productos digitales, interfaces web y experiencias visuales: de la investigación y la arquitectura de información al prototipado y los sistemas de diseño, trabajando junto a producto y desarrollo hasta la entrega final.
 
-- 🔗 Portfolio: **[OddXandre.es](https://oddxandre.es)**
+- 🔗 Portfolio: **[Ver portfolio en línea](https://oddxandre.github.io/Portfolio_OddXandre)**
 - ✉️ oddxandre@gmail.com
 
 > 🎯 **Disponible para nuevas oportunidades** — Product & UX/UI Designer · Málaga / remoto
@@ -11,11 +11,11 @@
 
 | | |
 |---|---|
-| **[Tito David](https://oddxandre.es/project-tito-david.html)** — Branding & Packaging · 2026 | **[Inboxe Fitboxing](https://oddxandre.es/project-inboxe.html)** — UX/UI & Product Design · BeByte · 2026 |
-| **[Cerveza Paleña](https://oddxandre.es/project-palena.html)** — Identidad Visual · 2025 | **[Beyond Frames](https://oddxandre.es/project-beyond-frames.html)** — Apple Vision Pro Concept · 2024 |
-| **[Copao](https://oddxandre.es/project-copao.html)** — Campaña Salud Mental · Credo · 2024 | **[Aguas de Benahavís](https://oddxandre.es/project-benahavis.html)** — Campaña Branding · Credo · 2024 |
+| **[Tito David](https://oddxandre.github.io/Portfolio_OddXandre/project-tito-david.html)** — Branding & Packaging · 2026 | **[Inboxe Fitboxing](https://oddxandre.github.io/Portfolio_OddXandre/project-inboxe.html)** — UX/UI & Product Design · BeByte · 2026 |
+| **[Cerveza Paleña](https://oddxandre.github.io/Portfolio_OddXandre/project-palena.html)** — Identidad Visual · 2025 | **[Beyond Frames](https://oddxandre.github.io/Portfolio_OddXandre/project-beyond-frames.html)** — Apple Vision Pro Concept · 2024 |
+| **[Copao](https://oddxandre.github.io/Portfolio_OddXandre/project-copao.html)** — Campaña Salud Mental · Credo · 2024 | **[Aguas de Benahavís](https://oddxandre.github.io/Portfolio_OddXandre/project-benahavis.html)** — Campaña Branding · Credo · 2024 |
 
-**[→ Ver todos los proyectos](https://oddxandre.es/work.html)** · **[📄 Descargar CV](https://oddxandre.es/media/PedroCarreras_UXUI_VisualDesigner.pdf)**
+**[→ Ver todos los proyectos](https://oddxandre.github.io/Portfolio_OddXandre/work.html)** · **[📄 Descargar CV](https://oddxandre.github.io/Portfolio_OddXandre/media/PedroCarreras_UXUI_VisualDesigner.pdf)**
 
 ## Experiencia
 
