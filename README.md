@@ -5,6 +5,8 @@
 - 🔗 Portfolio: **[OddXandre.es](https://oddxandre.es)**
 - ✉️ oddxandre@gmail.com
 
+> 🎯 **Disponible para nuevas oportunidades** — Product & UX/UI Designer · Málaga / remoto
+
 ## Experiencia
 
 **Product & UX/UI Designer** — BeByte Tecnología (04/2025 – 09/2025)
@@ -46,3 +48,5 @@ Proyectos de UX/UI, branding y diseño visual; IA y metodologías ágiles para c
 ---
 
 🌐 Español (nativo) · 🇬🇧 Inglés (B2)
+
+📬 Contacto: **[oddxandre@gmail.com](mailto:oddxandre@gmail.com)**
