@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="banner.png" alt="Xandre Carreras — Product & UX/UI Designer" width="100%">
+</p>
+
 # Xandre Carreras — Product & UX/UI Designer
 
 Málaga, España · remoto
