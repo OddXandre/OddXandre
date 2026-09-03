@@ -2,24 +2,28 @@
   <img src="banner.png" alt="Xandre Carreras — Product & UX/UI Designer" width="100%">
 </p>
 
-# Xandre Carreras — Product & UX/UI Designer
+<p align="center">
+  Convierto problemas complejos en productos claros:<br>
+  investigación, interfaces y sistemas de diseño que escalan.
+</p>
 
-Málaga, España · remoto
-
-Convierto problemas complejos en productos claros: investigación, interfaces y sistemas de diseño que escalan.
-
-> 🎯 **Disponible para nuevas oportunidades** · [CV en PDF](https://oddxandre.github.io/Portfolio_OddXandre/media/PedroCarreras_UXUI_VisualDesigner.pdf) · [oddxandre@gmail.com](mailto:oddxandre@gmail.com)
-
-**[→ Ver portfolio](https://oddxandre.github.io/Portfolio_OddXandre)**
+<p align="center">
+  🎯 <strong>Disponible para nuevas oportunidades</strong><br>
+  <a href="https://oddxandre.github.io/Portfolio_OddXandre/media/PedroCarreras_UXUI_VisualDesigner.pdf"><strong>CV en PDF</strong></a> ·
+  <a href="mailto:oddxandre@gmail.com">oddxandre@gmail.com</a> ·
+  <a href="https://oddxandre.github.io/Portfolio_OddXandre"><strong>Ver portfolio →</strong></a>
+</p>
 
 ## Trabajo seleccionado
 
 | | |
 |:---:|:---:|
-| [![Inboxe Fitboxing](https://oddxandre.github.io/Portfolio_OddXandre/media/work/cover-inboxe.jpg)](https://oddxandre.github.io/Portfolio_OddXandre/project-inboxe.html)<br><sub>**Inboxe Fitboxing** · Producto digital · BeByte · 2026</sub> | [![Tito David](https://oddxandre.github.io/Portfolio_OddXandre/media/work/cover-titodavid.jpg)](https://oddxandre.github.io/Portfolio_OddXandre/project-tito-david.html)<br><sub>**Tito David** · Branding & packaging · 2026</sub> |
-| [![Cerveza Paleña](https://oddxandre.github.io/Portfolio_OddXandre/media/work/cover-palena.jpg)](https://oddxandre.github.io/Portfolio_OddXandre/project-palena.html)<br><sub>**Cerveza Paleña** · Identidad visual · 2025</sub> | [![Beyond Frames](https://oddxandre.github.io/Portfolio_OddXandre/media/work/cover-beyond.jpg)](https://oddxandre.github.io/Portfolio_OddXandre/project-beyond-frames.html)<br><sub>**Beyond Frames** · Apple Vision Pro · EASD San Telmo · 2024</sub> |
+| [![Inboxe Fitboxing](https://oddxandre.github.io/Portfolio_OddXandre/media/work/cover-inboxe.jpg)](https://oddxandre.github.io/Portfolio_OddXandre/project-inboxe.html)<br><sub><strong>Inboxe Fitboxing</strong><br>Producto digital · BeByte · 2026</sub> | [![Tito David](https://oddxandre.github.io/Portfolio_OddXandre/media/work/cover-titodavid.jpg)](https://oddxandre.github.io/Portfolio_OddXandre/project-tito-david.html)<br><sub><strong>Tito David</strong><br>Branding & packaging · 2026</sub> |
+| [![Cerveza Paleña](https://oddxandre.github.io/Portfolio_OddXandre/media/work/cover-palena.jpg)](https://oddxandre.github.io/Portfolio_OddXandre/project-palena.html)<br><sub><strong>Cerveza Paleña</strong><br>Identidad visual · 2025</sub> | [![Beyond Frames](https://oddxandre.github.io/Portfolio_OddXandre/media/work/cover-beyond.jpg)](https://oddxandre.github.io/Portfolio_OddXandre/project-beyond-frames.html)<br><sub><strong>Beyond Frames</strong><br>Apple Vision Pro · EASD San Telmo · 2024</sub> |
 
-[Ver los 8 proyectos →](https://oddxandre.github.io/Portfolio_OddXandre/work.html)
+<p align="center">
+  <a href="https://oddxandre.github.io/Portfolio_OddXandre/work.html">Ver los 8 proyectos →</a>
+</p>
 
 ## Trayectoria
 
